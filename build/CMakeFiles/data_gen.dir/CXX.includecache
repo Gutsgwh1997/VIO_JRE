@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/main/gener_alldata.cpp
+fstream
+-
+../src/imu.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/imu.h
+../src/utilities.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/utilities.h
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/imu.cpp
+imu.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/imu.h
+utilities.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/utilities.h
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/imu.h
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+iostream
+-
+vector
+-
+param.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/param.h
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/param.cpp
+param.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/param.h
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/param.h
+eigen3/Eigen/Core
+-
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/utilities.cpp
+utilities.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/utilities.h
+
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/utilities.h
+imu.h
+/media/gwh/学习资料/研究生课题/VINS/从零开始手写VIO/02.第2节 IMU传感器/任务2-5VIO第2节代码/第2节代码/vio_data_simulation-master/src/imu.h
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+iostream
+-
+vector
+-
+fstream
+-
+
